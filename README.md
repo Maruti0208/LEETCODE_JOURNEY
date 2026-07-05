@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
+| [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
