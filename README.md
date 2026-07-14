@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0216-combination-sum-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
