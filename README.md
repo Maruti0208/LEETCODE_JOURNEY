@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1657-determine-if-two-strings-are-close) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Tree
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [1492-the-kth-factor-of-n](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3751-total-waviness-of-numbers-in-range-i) |
