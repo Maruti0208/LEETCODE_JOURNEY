@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1260-shift-2d-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
