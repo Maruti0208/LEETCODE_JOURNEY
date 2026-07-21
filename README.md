@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
+| [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0338-counting-bits) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [1492-the-kth-factor-of-n](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
