@@ -2,51 +2,35 @@ class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
 
-        s = "1" + s + "1";    
-
-        int n = s.length();
-        int o = 0;
-
-        for (char c : s)
-            if (c == '1')
-                o++;
-
-        o -= 2;          
-        int ans = o;
-
         int i = 0;
+        vector<int> vcc;
+        int n = s.size();
+        int one = 0;
 
         while (i < n) {
-
-            if (s[i] == '0') {
-
-                int po1 = 0, no1 = 0, po2 = 0;
-
-                while (i < n && s[i] == '0') {
-                    po1++;
+            if (s[i] == '1') {
+                while (s[i] == '1') {
+                    one++;
                     i++;
                 }
-
-                while (i < n && s[i] == '1') {
-                    no1++;
-                    i++;
-                }
-                int t=i;
-                while (i < n && s[i] == '0') {
-                    po2++;
-                    i++;
-                }
-
-                if (po1 > 0 && no1 > 0 && po2 > 0) {
-                    ans = max(ans, o + po1 + po2);
-                }
-                i=t;
-
             } else {
-                i++;
+                int cnt = 0;
+                while (s[i] == '0') {
+                    i++;
+                    cnt++;
+                }
+                vcc.push_back(cnt);
             }
         }
 
-        return ans;
+        if (vcc.size() < 2)
+            return one;
+
+        int maxi = INT_MIN;
+
+        for (int i = 1; i < vcc.size(); i++)
+            maxi = max(maxi, vcc[i] + vcc[i - 1]);
+
+        return maxi + one;
     }
 };
