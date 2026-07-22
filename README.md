@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 |  |
 | ------- |
