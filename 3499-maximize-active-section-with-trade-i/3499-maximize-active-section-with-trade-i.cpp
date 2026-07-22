@@ -4,6 +4,7 @@ public:
 
         int i = 0;
         vector<int> vcc;
+        vcc.reserve(s.size());
         int n = s.size();
         int one = 0;
 
