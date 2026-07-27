@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0228-summary-ranges) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0338-counting-bits) |
