@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
+| [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Combinatorics
 |  |
