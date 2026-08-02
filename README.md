@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1492-the-kth-factor-of-n) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
