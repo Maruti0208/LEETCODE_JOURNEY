@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1288-remove-covered-intervals) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1668-maximum-repeating-substring) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
@@ -420,9 +425,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
