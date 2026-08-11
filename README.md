@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
