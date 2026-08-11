@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
