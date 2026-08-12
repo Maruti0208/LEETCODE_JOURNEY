@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0102-binary-tree-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -462,5 +466,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
