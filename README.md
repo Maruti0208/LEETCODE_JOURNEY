@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0547-number-of-provinces) |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
