@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
