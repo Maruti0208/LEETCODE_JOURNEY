@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1162-as-far-from-land-as-possible](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1668-maximum-repeating-substring) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1162-as-far-from-land-as-possible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
