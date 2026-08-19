@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1711-count-good-meals](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1711-count-good-meals) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1492-the-kth-factor-of-n) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
