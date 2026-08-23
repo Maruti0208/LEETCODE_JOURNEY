@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1668-maximum-repeating-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2706-buy-two-chocolates](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 ## Memoization
 |  |
 | ------- |
