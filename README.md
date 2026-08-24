@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3620-network-recovery-pathways) |
+| [3668-restore-finishing-order](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3668-restore-finishing-order](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3945-digit-frequency-score) |
