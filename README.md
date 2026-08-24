@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3945-digit-frequency-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3945-digit-frequency-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3945-digit-frequency-score) |
 ## Depth-First Search
 |  |
 | ------- |
