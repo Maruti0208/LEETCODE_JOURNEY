@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1668-maximum-repeating-substring) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Minimax
 |  |
 | ------- |
@@ -518,4 +521,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0207-course-schedule) |
+## Rolling Hash
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
+## Hash Function
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
+## Z Algorithm
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
