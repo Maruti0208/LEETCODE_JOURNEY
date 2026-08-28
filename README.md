@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1668-maximum-repeating-substring) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
