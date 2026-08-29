@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1711-count-good-meals](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1711-count-good-meals) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1668-maximum-repeating-substring) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
