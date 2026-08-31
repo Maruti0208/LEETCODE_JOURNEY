@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Backtracking
 |  |
 | ------- |
