@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
