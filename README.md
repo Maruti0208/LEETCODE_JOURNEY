@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0198-house-robber) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
