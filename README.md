@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0168-excel-sheet-column-title) |
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1657-determine-if-two-strings-are-close) |
@@ -573,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
