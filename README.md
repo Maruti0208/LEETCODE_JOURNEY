@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
+| [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
