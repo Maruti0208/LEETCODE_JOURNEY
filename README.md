@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1668-maximum-repeating-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2706-buy-two-chocolates](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3794-reverse-string-prefix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3794-reverse-string-prefix) |
