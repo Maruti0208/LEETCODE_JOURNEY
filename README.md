@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1143-longest-common-subsequence) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
