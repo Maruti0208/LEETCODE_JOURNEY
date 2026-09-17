@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0200-number-of-islands) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
