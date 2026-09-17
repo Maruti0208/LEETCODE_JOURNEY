@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
