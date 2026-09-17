@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0070-climbing-stairs) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0347-top-k-frequent-elements) |
 ## Bidirectional Search
 |  |
