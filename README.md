@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -626,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
