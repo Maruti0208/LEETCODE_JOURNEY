@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -659,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
