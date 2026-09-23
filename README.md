@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1406-stone-game-iii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1711-count-good-meals](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1711-count-good-meals) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1711-count-good-meals](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1711-count-good-meals) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
