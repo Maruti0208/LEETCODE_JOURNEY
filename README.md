@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0684-redundant-connection) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
