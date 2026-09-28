@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3524-find-x-value-of-array-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
