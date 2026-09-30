@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3310-remove-methods-from-project) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
