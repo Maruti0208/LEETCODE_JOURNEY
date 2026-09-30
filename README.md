@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1138-alphabet-board-path](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1138-alphabet-board-path) |
 | [1143-longest-common-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
