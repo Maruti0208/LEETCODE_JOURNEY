@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3925-concatenate-array-with-reverse) |
+| [3996-even-number-of-knight-moves](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3945-digit-frequency-score) |
+| [3996-even-number-of-knight-moves](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3996-even-number-of-knight-moves) |
 ## Depth-First Search
 |  |
 | ------- |
