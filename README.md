@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1138-alphabet-board-path](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1138-alphabet-board-path) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
