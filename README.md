@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0419-battleships-in-a-board) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0338-counting-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -708,4 +712,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
