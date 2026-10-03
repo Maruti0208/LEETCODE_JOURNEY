@@ -10,10 +10,10 @@ public:
             }
             nums[abs(nums[i])] = nums[abs(nums[i])] * (-1);
         }
-        for (int i = 0; i < n; i++) {
-            if (nums[i] < 0)
-                nums[i] *= (-1);
-        }
+        // for (int i = 0; i < n; i++) {
+        //     if (nums[i] < 0)
+        //         nums[i] *= (-1);
+        // }
         return ans;
     }
 };
