@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0032-longest-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Brainteaser
 |  |
