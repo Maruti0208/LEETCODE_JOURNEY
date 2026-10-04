@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0907-sum-of-subarray-minimums) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1138-alphabet-board-path](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1138-alphabet-board-path) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0907-sum-of-subarray-minimums) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
