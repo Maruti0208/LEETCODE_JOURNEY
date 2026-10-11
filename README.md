@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2706-buy-two-chocolates](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3751-total-waviness-of-numbers-in-range-i) |
