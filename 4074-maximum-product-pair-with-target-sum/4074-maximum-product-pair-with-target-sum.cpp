@@ -1,28 +1,31 @@
+
 class Solution {
 public:
     vector<int> maxProductPair(vector<int>& nums, int t) {
         long long ans = LLONG_MIN;
-        int n = nums.size();
-        int y = -1, j = -1;
+        int a = -1, b = -1;
         unordered_map<int, int> m;
-          m.reserve(nums.size());
 
-        for (int i = 0; i < n; i++) {
-            if (m.find(t - nums[i]) != m.end()) {
-                long long p = 1LL * nums[i] * (t - nums[i]);
+        for (int i = 0; i < nums.size(); i++) {
+            int x = t - nums[i];
+            auto it = m.find(x);
 
-                if (ans < p && nums[i] != t - nums[i]) {
-                    y = i;
-                    j = m[t - nums[i]];
+            if (it != m.end() && x != nums[i]) {
+                long long p = 1LL * nums[i] * x;
+
+                if (p > ans) {
                     ans = p;
+                    a = it->second;
+                    b = i;
                 }
             }
 
             m[nums[i]] = i;
         }
 
-        if (y == -1) return {-1,-1};
-        if(nums[j]>nums[y]) return {j, y};
-        return {y,j};
+        if (a == -1) return {-1, -1};
+
+        if (nums[a] > nums[b]) return {a, b};
+        return {b, a};
     }
 };
