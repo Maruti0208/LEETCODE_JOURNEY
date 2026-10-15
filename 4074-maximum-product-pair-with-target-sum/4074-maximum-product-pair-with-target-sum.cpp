@@ -5,6 +5,7 @@ public:
         int n = nums.size();
         int y = -1, j = -1;
         unordered_map<int, int> m;
+          m.reserve(nums.size());
 
         for (int i = 0; i < n; i++) {
             if (m.find(t - nums[i]) != m.end()) {
