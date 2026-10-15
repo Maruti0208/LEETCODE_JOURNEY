@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -759,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
